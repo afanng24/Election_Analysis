@@ -29,7 +29,7 @@ All of which is contained within the “PyPoll_Challange.py '' Python file and t
   -   Jefferson County had 10.5% of the votes for a total of 38,855 individual votes.
   -   Denver County had 82.8% of the votes for a total of 306,055 individual votes.
   -   Arapahoe County had 6.7% of the votes for a total of 24,801 individual votes.
-- Which county had the largest number of votes?
+- To summarize Denver County had the largest number and percentage of votes.
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 

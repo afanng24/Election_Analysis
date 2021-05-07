@@ -47,7 +47,9 @@ Diana Degette won the election with 272,892 individual votes and 73.8% of the to
   
 ## Election-Audit Summary
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+The code provided in PyPoll_Challanges can be formatted based on information contained in its attached csv file. The file currently includes candidates, votes, and counties that voted. If the file were to be expanded with additional information then there is no reason it can’t be used for a plethora of other elections ranging from local elections, mayoral elections and even presidential elections. For mayoral elections one might include districts and the total number of people who voted in their respective districts, the code in PyPoll_Challanges could then be formatted to district_name, district_percentage, and district_results so on and so forth. As long as the district votes were on the same row of the csv file. 
+If this code were to be used in a presidential election that would include both county and state votes then a state dictionary would be made just as the county dictionary was made. Depending on what row the state votes are on, the information could be pulled from that csv file and included into the python code. This would give the same information that was collected from county votes to state votes as well. All of which would then be formatted and read easily in the election_analysis.txt attached in the Elections_analysis folder. 
+
 
 
 ## Explaining the Code and Introductions

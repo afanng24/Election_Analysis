@@ -14,7 +14,7 @@ All of which was accomplished under the "PyPoll.py" python file. Additionally th
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
 
-All of which is contained within the “PyPoll_Challange.py '' Python file and the results of which could be easily read in the election_analysis.txt. Furthermore, the methods used to create the additional information and the difference between the two Python files will be included towards the end of the analysis under "Explaining the Code."
+All of which is contained within the “PyPoll_Challange.py '' Python file and the results of which could be easily read in the election_analysis.txt. Furthermore, the methods used to create the additional information and the difference between the two Python files will be included towards the end of the analysis under "Explaining the Code and Introductions."
 
 
 ## Resources

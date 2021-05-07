@@ -36,7 +36,7 @@ Use Bullet Points Here
 ## Election-Audit Summary
 
 
-# Explaining the Code
+## Explaining the Code
 
 ## Introduction
 

@@ -66,6 +66,12 @@ Same code as PyPoll.py but since only the Largest County Turnout was needed only
 ![PyPoll7](https://user-images.githubusercontent.com/82983000/117489400-96087500-af3b-11eb-868c-80b948089afb.png)
 ### PyPoll Challenge 
 ![PyPollChallegne7](https://user-images.githubusercontent.com/82983000/117489417-9b65bf80-af3b-11eb-94f6-0ff74d885e40.png)
+### 8: Save the county with the largest turnout to a text file.
+Ending the code by saving the final largest county turnout into the textfile, instead of putting winnging_candidate_summary into the textfile (which comes later in the challenge code) we insert largest_county_turnout which writes it down in the textfile. 
+### PyPoll
+![PyPoll8](https://user-images.githubusercontent.com/82983000/117490011-44141f00-af3c-11eb-9795-355b345ff756.png)
+### PyPoll Challenge 
+![PyPollChallegne8](https://user-images.githubusercontent.com/82983000/117490023-48d8d300-af3c-11eb-98f9-fdf2e41ad1bf.png)
 
 
 

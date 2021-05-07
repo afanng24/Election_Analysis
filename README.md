@@ -62,7 +62,7 @@ This section is an addition created to further explain the code and why some lin
  
  ### 1: Create a county list and county votes dictionary.
  
- The easiest part, creating a dictionary for the county names and county votes they are named county_names and county_votes respectfully which mirrors the first liens of code in PyPoll.py where we had to create candidate options and candidate votes. 
+ The easiest part, creating a dictionary for the county names and county votes they are named county_names and county_votes respectfully which mirrors the first lines of code in PyPoll.py where we had to create candidate options and candidate votes. 
 ### PyPoll
 ![PyPoll1](https://user-images.githubusercontent.com/82983000/117485441-5f7c2b80-af36-11eb-8131-c0b275dfd061.png)
 ### PyPoll Challenge

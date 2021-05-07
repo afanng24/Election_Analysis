@@ -6,13 +6,13 @@ This Readme is not a part of the challenge but rather a personal addition create
 
 
 ## Instuctions 
--1: Create a county list and county votes dictionary.
--2: Track the largest county and county voter turnout.
--3: Extract the county name from each row.
--4a: Write an if statement that checks that the
-       - # county does not match any existing county in the county list.
-      -  4b: Add the existing county to the list of counties.
-     -   4c: Begin tracking the county's vote count.
+-      1: Create a county list and county votes dictionary.
+-      2: Track the largest county and county voter turnout.
+-      3: Extract the county name from each row.
+-      4a: Write an if statement that checks that the
+       -      # county does not match any existing county in the county list.
+      -       4b: Add the existing county to the list of counties.
+     -         4c: Begin tracking the county's vote count.
 -   5: Add a vote to that county's vote count.     
 -6a: Write a for loop to get the county from the county dictionary.
  - 6b: Retrieve the county vote count.

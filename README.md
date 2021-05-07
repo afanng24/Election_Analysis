@@ -24,7 +24,8 @@ All of which is contained within the “PyPoll_Challange.py '' Python file and t
 
 ## Election-Audit Results
 The results of this election were as follows:
-- 369,711 total votes were cast in this congressional election.
+
+369,711 total votes were cast in this congressional election.
 - Number of votes and the percentage of total votes for each county:
   -   Jefferson County had 10.5% of the votes for a total of 38,855 individual votes.
   -   Denver County had 82.8% of the votes for a total of 306,055 individual votes.

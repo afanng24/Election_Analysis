@@ -40,7 +40,11 @@ Since there is no percentage yet, PyPoll Challange only needs to track largest c
 ![PyPollChallange2](https://user-images.githubusercontent.com/82983000/117486056-26908680-af37-11eb-8a41-db99d2696e09.png)
 ### 3: Extract the county name from each row.
 Inserting county_name from the file, note that it is important to do this under the for - in row just like the candidate_name above this line. The excel file has the name of each county in the second row so since it starts with 0 the county names would be under [1]. 
+### PyPoll Challenge
 ![PyPollChallange3](https://user-images.githubusercontent.com/82983000/117486487-b6cecb80-af37-11eb-9b2f-9bc3c8c776c8.png)
+### 4a: Write an if statement that checks that the county does not match any existing county in the county list.
+### 4b: Add the existing county to the list of counties.
+### 4c: Begin tracking the county's vote count.
 
 
 

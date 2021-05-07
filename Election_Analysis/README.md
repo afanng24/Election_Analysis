@@ -32,6 +32,14 @@ This Readme is not a part of the challenge but rather a personal addition create
 ### PyPoll Challenge
 ![PyPollChallange1](https://user-images.githubusercontent.com/82983000/117485603-8e929d00-af36-11eb-9672-7fd9b37fc876.png)
 
+### 2: Track the largest county and county voter turnout.
+Since there is no percentage yet, PyPoll Challange only needs to track largest county turnout and largest county vote which is named largest_county_turnout and largest_county_vote respectfully. 
+### PyPoll
+![PyPoll2](https://user-images.githubusercontent.com/82983000/117486026-1d9fb500-af37-11eb-8997-7d4e9bb6c86b.png)
+### PyPoll Challenge
+![PyPollChallange2](https://user-images.githubusercontent.com/82983000/117486056-26908680-af37-11eb-8a41-db99d2696e09.png)
+
+
 
  
  

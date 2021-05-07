@@ -30,7 +30,8 @@ This Readme is not a part of the challenge but rather a personal addition create
 ### PyPoll
 ![PyPoll1](https://user-images.githubusercontent.com/82983000/117485441-5f7c2b80-af36-11eb-8131-c0b275dfd061.png)
 ### PyPoll Challenge
-![PyPollChallange1](https://user-images.githubusercontent.com/82983000/117485490-6b67ed80-af36-11eb-8971-957b07239c64.png)
+![PyPollChallange1](https://user-images.githubusercontent.com/82983000/117485603-8e929d00-af36-11eb-9672-7fd9b37fc876.png)
+
 
  
  

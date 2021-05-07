@@ -54,10 +54,19 @@ Same idea as instruction 4.
 ![PyPollChallenge5](https://user-images.githubusercontent.com/82983000/117487125-ad922e80-af38-11eb-9e59-a69ea1fc1b71.png)
 ### 6a - 6f 
 Same principle as the other PyPoll code however this section took the longest, specifically 6c where we had to calculate county percentage. The original code had float(votes/float(total_votes) * 100 to find the percentage however float wouldn't work with the county vote. Precision was needed for vote percentage hence the float function, the interger function was used for the county percentage instead. 
+6f was also a deviation from the original code as we only needed to find the winning county and its turnout as opposed to needing to figure out the vote count, percentage, and candidate. The original code had an IF - AND statement whereas the challenge colde just needed an IF statement without the and.  
+
 ### PyPoll
 ![PyPoll6](https://user-images.githubusercontent.com/82983000/117488202-1e861600-af3a-11eb-9a13-3010e06848ab.png)
 ### PyPoll Challenge
 ![PyPollChallenge6](https://user-images.githubusercontent.com/82983000/117488217-234aca00-af3a-11eb-9236-7160e8468935.png)
+### 7: Print the county with the largest turnout to the terminal.
+Same code as PyPoll.py but since only the Largest County Turnout was needed only one f string with words were needed, the rest were dashed lines to separate the rows and largest_county_turnout outcome was inserted into the {} brackets. 
+### PyPoll
+![PyPoll7](https://user-images.githubusercontent.com/82983000/117489400-96087500-af3b-11eb-868c-80b948089afb.png)
+### PyPoll Challenge 
+![PyPollChallegne7](https://user-images.githubusercontent.com/82983000/117489417-9b65bf80-af3b-11eb-94f6-0ff74d885e40.png)
+
 
 
 

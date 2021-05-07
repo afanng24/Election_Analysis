@@ -23,15 +23,23 @@ All of which is contained within the “PyPoll_Challange.py '' Python file and t
 **Software** : Python 3.7.6 , Visual Studio Code.
 
 ## Election-Audit Results
-
+The results of this election were as follows:
 - 369,711 total votes were cast in this congressional election.
-- Number of votes and the percentage of total votes for each county
+- Number of votes and the percentage of total votes for each county:
   -   Jefferson County had 10.5% of the votes for a total of 38,855 individual votes.
   -   Denver County had 82.8% of the votes for a total of 306,055 individual votes.
   -   Arapahoe County had 6.7% of the votes for a total of 24,801 individual votes.
-- To summarize Denver County had the largest number and percentage of votes.
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+
+In summary Denver County had the largest number and percentage of votes.
+
+- The candidates and their share of the vote:
+  - Charles Casper Stockham recieved 23.0% of the vote with 85,213 individual votes.
+  - Diana Degette recieved 73.8% of the vote with 272,892 individual votes.
+  - Raymon Anthony Doane recieved 3.1% of the vote with 11,606 individual votes.
+
+
+Diana Degette won the election with 272,892 individual votes and 73.8% of the total vote. 
 
 
 

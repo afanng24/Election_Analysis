@@ -22,4 +22,8 @@ This Readme is not a part of the challenge but rather a personal addition create
 -      7: Print the county with the largest turnout to the terminal.
 -      8: Save the county with the largest turnout to a text file.
  
+ ## Code and Comparisons
+ 
+ ### 1:
+ 
  

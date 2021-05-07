@@ -36,9 +36,7 @@ Use Bullet Points Here
 ## Election-Audit Summary
 
 
-## Explaining the Code
-
-## Introduction
+## Explaining the Code and Introductions
 
 This section is an addition created to further explain the code and why some lines of code are used. This will make it easier to review further down the line should anyone ever need to revisit syntax or misunderstand what certain lines accomplishes. The challenge itself is called "PyPoll_Challange.py" while the homework file was named "PyPoll.py" much of the challenge is simply restructuring what we have learned in "PyPoll.py" and making it work in the challenge file. Screenshots will be added where it is necessary. 
 

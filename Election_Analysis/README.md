@@ -52,6 +52,13 @@ Inserting county_name from the file, note that it is important to do this under 
 Same idea as instruction 4. 
 ### PyPoll Challenge
 ![PyPollChallenge5](https://user-images.githubusercontent.com/82983000/117487125-ad922e80-af38-11eb-9e59-a69ea1fc1b71.png)
+### 6a - 6f 
+Same principle as the other PyPoll code however this section took the longest, specifically 6c where we had to calculate county percentage. The original code had float(votes/float(total_votes) * 100 to find the percentage however float wouldn't work with the county vote. Precision was needed for vote percentage hence the float function, the interger function was used for the county percentage instead. 
+### PyPoll
+![PyPoll6](https://user-images.githubusercontent.com/82983000/117488202-1e861600-af3a-11eb-9a13-3010e06848ab.png)
+### PyPoll Challenge
+![PyPollChallenge6](https://user-images.githubusercontent.com/82983000/117488217-234aca00-af3a-11eb-9236-7160e8468935.png)
+
 
 
 

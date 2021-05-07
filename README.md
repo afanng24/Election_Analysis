@@ -23,7 +23,7 @@ All of which is contained within the “PyPoll_Challange.py '' Python file and t
 **Software** : Python 3.7.6 , Visual Studio Code.
 
 ## Election-Audit Results
-The results of this election were as follows:
+The results of the election is as follows:
 
 369,711 total votes were cast in this congressional election.
 - Number of votes and the percentage of total votes for each county:

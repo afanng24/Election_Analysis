@@ -43,6 +43,16 @@ Inserting county_name from the file, note that it is important to do this under 
 ### PyPoll Challenge
 ![PyPollChallange3](https://user-images.githubusercontent.com/82983000/117486487-b6cecb80-af37-11eb-9b2f-9bc3c8c776c8.png)
 ### 4a - 4c: Write an if statement that checks that the county does not match any existing county in the county list. Add the existing county to the list of counties. Begin tracking the county's vote count.
+4a - 4c was introducing the newly created dictionaries to the code and followed from the PyPoll excersie when we had to do the same for the candidate votes and candidate names. 
+### PyPoll
+![PyPoll4](https://user-images.githubusercontent.com/82983000/117487003-73289180-af38-11eb-8e8f-3555a7fb216d.png)
+### PyPoll Challenge
+![PyPollChallenge4](https://user-images.githubusercontent.com/82983000/117487015-79b70900-af38-11eb-9e56-b5454113afa7.png)
+### 5: Add a vote to that county's vote count. 
+Same idea as instruction 4. 
+### PyPoll Challenge
+![PyPollChallenge5](https://user-images.githubusercontent.com/82983000/117487125-ad922e80-af38-11eb-9e59-a69ea1fc1b71.png)
+
 
 
 

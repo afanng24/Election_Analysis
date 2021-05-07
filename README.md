@@ -23,9 +23,12 @@ All of which is contained within the “PyPoll_Challange.py '' Python file and t
 **Software** : Python 3.7.6 , Visual Studio Code.
 
 ## Election-Audit Results
-Use Bullet Points Here
-- How many votes were cast in this congressional election?
-- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+- 369,711 total votes were cast in this congressional election.
+- Candidates
+-   Charles Casper Stockham
+-   Diana Degette
+-   Raymon Anthony Doane
 - Which county had the largest number of votes?
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
